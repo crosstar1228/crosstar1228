@@ -1,5 +1,5 @@
 # Jesung Ryu : Romantic AI Developer🧚‍♂️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosstar1228&&show_icons=true&theme=dracula)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosstar1228&&show_icons=true&theme=white)  
 
 Hope to resemble a dream of spreading romance and healing to the society.🦢  
 Believe in the technological power as a measure of achieving goals.  
