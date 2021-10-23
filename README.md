@@ -1,10 +1,10 @@
 # Jesung Ryu : Romantic AI Developer🧚‍♂️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosstar1228&&show_icons=true&theme=dracula)  
 
-Hope to resemble a dream of spreading romance and healing to the society.🦢
+Hope to resemble a dream of spreading romance and healing to the society.🦢  
 Believe in the technological power as a measure of achieving goals.  
 Interested in `NLP` and `Generative Models`.  
-Proactive, Sensitive, emotional and attractive.🥰 
+Proactive, sensitive, emotional and attractive.🥰 
 
 
 ## Experience 🎬
