@@ -1,10 +1,8 @@
 # Jesung Ryu : Romantic AI Developer🧚‍♂️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosstar1228&&show_icons=true&theme=white)  
 
-Hope to resemble a dream of spreading romance and healing to the society.🦢  
-Believe in the technological power as a measure of achieving goals.  
-Interested in `NLP` and `Generative Models`.  
-Proactive, sensitive, emotional and attractive.🥰 
+I prioritize actions over words, necessity over preference with highly self-driven motivation. 
+Interested in `NLP`, `LLM` and `Generative Models`
 
 ## Publication📚
 - [**MID-FiLD: MIDI Dataset for Fine-Level Dynamics**](https://ojs.aaai.org/index.php/AAAI/article/view/27774), *2024.03 (AAAI 2024), **1st Author***
