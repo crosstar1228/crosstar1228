@@ -24,11 +24,16 @@ Proactive, sensitive, emotional and attractive.🥰
 
 ## Experience 🎬
 - Published research paper of novel dataset(AAAI) as a research project leader
+
 • Implemented robust MIDI Data Labelling Pipeline for large-scale training dataset from external open source
+
 • Developed Music Metadata AI Analyzer and attained accuracy Score 80%
+
 • Developed Music Composition AI Modules (Dynamics, Sustain Pedal, Song Structure)
+
 • Deployed above models as REST API through self-constructed evaluation pipeline with MLOps Engineer
-- 🌱deep learning study facilitator([CS231n from Stanford Univ.](https://modulabs.co.kr/product/flip17th-4522-2021-08-29-125126/))
+
+- 🌱deep learning study facilitator([CS231n from Stanford Univ.])
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrosstar1228%2Fcrossstar1228%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
