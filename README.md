@@ -1,7 +1,8 @@
 # Jesung Ryu : Romantic AI Developer🧚‍♂️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosstar1228&&show_icons=true&theme=white)  
 
-I prioritize actions over words, necessity over preference with highly self-driven motivation. 
+prioritize actions over words, necessity over preference with highly self-driven motivation. 
+
 Interested in `NLP`, `LLM` and `Generative Models`
 
 ## Publication📚
