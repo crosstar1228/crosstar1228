@@ -12,7 +12,7 @@ Interested in `NLP`, `LLM` and `Generative Models`
     
     - 논문 작성 및 연구 리드
     - Poster Session 발표 참여
-    - 슬라이드/포스터 제작 및 온라인 Presentation 영상 촬영
+    - 슬라이드/포스터 제작 및 온라인 Presentation
     - 연구 내용
         - Symbolic Music Generation 분야의 AI 학습 데이터셋
         - 악기의 주법에 따라 변하는 음색과 음량을 미세한 수준으로 표현
@@ -22,17 +22,17 @@ Interested in `NLP`, `LLM` and `Generative Models`
 
 
 ## Experience 🎬
-- Published research paper of novel dataset(AAAI) as a research project leader
+• 📝Published research paper of novel dataset(AAAI) as a research project leader
 
-• Implemented robust MIDI Data Labelling Pipeline for large-scale training dataset from external open source
+• 💽Implemented robust MIDI Data Labelling Pipeline for large-scale training dataset from external open source
 
-• Developed Music Metadata AI Analyzer and attained accuracy Score 80%
+• 🎶Developed Music Metadata AI Analyzer and attained accuracy Score 80%
 
-• Developed Music Composition AI Modules (Dynamics, Sustain Pedal, Song Structure)
+• Developed Music Composition AI Modules (🎻Dynamics, 🎹Sustain Pedal, 🎼Song Structure)
 
-• Deployed above models as REST API through self-constructed evaluation pipeline with MLOps Engineer
+• ↔️Deployed above models as REST API through self-constructed evaluation pipeline
 
-- 🌱deep learning study facilitator([CS231n from Stanford Univ.])
+• 🌱deep learning study facilitator([CS231n from Stanford Univ.])
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrosstar1228%2Fcrossstar1228%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
